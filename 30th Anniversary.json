@@ -1,0 +1,729 @@
+{
+    "description": "JH Wishlist",
+    "name": "30th Anniversary",
+    "data": [
+        {
+            "description": "JH Wishlist for 30th Anniversary Items",
+            "hash": 2708806099,
+            "name": "Outlaw/Kill Clip",
+            "plugs": [
+                [
+                    1168162263
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 2708806099,
+            "name": "Perpetual Motion/Rangefinder",
+            "plugs": [
+                [
+                    1428297954
+                ],
+                [
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 2708806099,
+            "name": "PM/KC or AJ",
+            "plugs": [
+                [
+                    1428297954
+                ],
+                [
+                    1015611457,
+                    11612903
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 2708806099,
+            "name": "SS or PM/EC",
+            "plugs": [
+                [
+                    957782887,
+                    1428297954
+                ],
+                [
+                    3511092054
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 1679868061,
+            "name": "PM/KW",
+            "plugs": [
+                [
+                    1428297954
+                ],
+                [
+                    2450788523
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 1679868061,
+            "name": "Sub/KW",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    2450788523
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 1679868061,
+            "name": "PM/Har or 1-2 or TB",
+            "plugs": [
+                [
+                    1428297954
+                ],
+                [
+                    438098033,
+                    2679249093,
+                    2360754333
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 1679868061,
+            "name": "SS/OS",
+            "plugs": [
+                [
+                    3161816588
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 548958835,
+            "name": "Gen/DB",
+            "plugs": [
+                [
+                    3096702027
+                ],
+                [
+                    1683379515
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 548958835,
+            "name": "Sub/Har",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    438098033
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 548958835,
+            "name": "Sub or FF/1fA or GT",
+            "plugs": [
+                [
+                    1820235745,
+                    2779035018
+                ],
+                [
+                    4049631843,
+                    2610012052
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 548958835,
+            "name": "Sub/Demo",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 3849810018,
+            "name": "PM/Ramp or Vorp or Demo",
+            "plugs": [
+                [
+                    972757866,
+                    3300816228
+                ],
+                [
+                    3523296417,
+                    3425386926,
+                    1546637391
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 3849810018,
+            "name": "AA/Ramp",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    3425386926
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 3849810018,
+            "name": "Ens/Vorp",
+            "plugs": [
+                [
+                    3301904089
+                ],
+                [
+                    2621346526
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 3257091166,
+            "name": "Eager Edge",
+            "plugs": [
+                [
+                    2077819806
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 3257091166,
+            "name": "DT/Harm or EnG",
+            "plugs": [
+                [
+                    3705817207
+                ],
+                [
+                    438098033,
+                    1685431615
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 3257091167,
+            "name": "Rel/Whirl or Vorp",
+            "plugs": [
+                [
+                    1749209109
+                ],
+                [
+                    3913600130,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 3257091167,
+            "name": "EE/Whirl or Vorp",
+            "plugs": [
+                [
+                    2077819806
+                ],
+                [
+                    3913600130,
+                    1546637391
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 3849810018,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    3798852852
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 3849810018,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    1478423395
+                ],
+                [
+                    409831596
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "From thegamer.net",
+            "hash": 235827225,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    1926090095
+                ],
+                [
+                    1968497646
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "From thegamer.net",
+            "hash": 235827225,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    1926090095
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    588594999
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "From thegamer.net",
+            "hash": 1679868061,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    1332244541
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "JH Wishlist",
+            "hash": 1679868061,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    1332244541
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 2708806099,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 2708806099,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    454085387
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 2563012876,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    1332244541
+                ],
+                [
+                    791862061
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 2563012876,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    1332244541
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "From thegamer.net",
+            "hash": 4164201232,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 4164201232,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    706527188
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 548958835,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    2680121939
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 548958835,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    732557052
+                ],
+                [
+                    1428297954
+                ],
+                [
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "From thegamer.com (Calls for whirlwind in column 3, but can't roll with that)",
+            "hash": 3257091166,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 3257091166,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    52780822
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 2139640995,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 2139640995,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    3625355092
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    354401740
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 3257091167,
+            "name": "TG - PvE",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1749209109
+                ],
+                [
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "From thegamer.com",
+            "hash": 3257091167,
+            "name": "TG - PvP",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    3625355092
+                ],
+                [
+                    2077819806
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        }
+    ]
+}
