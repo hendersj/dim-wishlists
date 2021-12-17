@@ -1,0 +1,55 @@
+title:Dawning 2021
+
+// Avalanche - Auto/Vorp ()
+//notes: Forbes
+dimwishlist:item=66875353&perks=3300816228,1546637391
+
+
+// Avalanche - ZM/TTT ()
+//notes: Forbes
+dimwishlist:item=66875353&perks=2387244414,1890422124
+
+
+// Avalanche - Sub/AJ or Swash ()
+//notes: Forbes
+dimwishlist:item=66875353&perks=1820235745,11612903
+dimwishlist:item=66875353&perks=1820235745,4082225868
+
+
+// Glacioclasm - Sub/RB ()
+//notes: Forbes
+dimwishlist:item=1030895163&perks=1820235745,1427256713
+
+
+// Glacioclasm - SS/RB ()
+//notes: Forbes
+dimwishlist:item=1030895163&perks=3161816588,1427256713
+
+
+// Glacioclasm - Surp or KW/Harmony ()
+//notes: Forbes
+dimwishlist:item=1030895163&perks=1820235745,438098033
+dimwishlist:item=1030895163&perks=2450788523,438098033
+
+
+// Glacioclasm - UP/HIR ()
+//notes: Forbes
+dimwishlist:item=1030895163&perks=1645158859,2213355989
+
+
+// Cold Front - PM or Sub/Ramp or 1fA or Swash ()
+dimwishlist:item=1506719573&perks=1820235745,3425386926
+dimwishlist:item=1506719573&perks=1820235745,4049631843
+dimwishlist:item=1506719573&perks=1820235745,4082225868
+dimwishlist:item=1506719573&perks=1428297954,3425386926
+dimwishlist:item=1506719573&perks=1428297954,4049631843
+dimwishlist:item=1506719573&perks=1428297954,4082225868
+
+
+// Zephyr - DT or Relent or Tire / CS ()
+//notes: Forbes
+dimwishlist:item=3400256755&perks=3705817207,3650930298
+dimwishlist:item=3400256755&perks=1749209109,3650930298
+dimwishlist:item=3400256755&perks=2590710093,3650930298
+
+
